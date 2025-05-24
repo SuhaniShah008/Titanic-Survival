@@ -17,4 +17,3 @@ We use a variety of classification algorithms including:
 
 The model is trained and evaluated using scikit-learn.
 
-## 📁 Project Structure
